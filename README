@@ -1,0 +1,7 @@
+Authors Michael Kemp & Alex Peterson
+
+ProcessQueries uses MyPriorityQueue with URLComparator with a userinput query to print a list of urls sorted by most related to the query.
+
+We used the given WebPageLoader class and the template for MyPriorityQueue and ProcessQueries 
+
+No support for searching for phrases with quotation marks
